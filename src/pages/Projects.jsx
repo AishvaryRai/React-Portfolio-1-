@@ -1,6 +1,6 @@
 import { useState } from 'react';
-import { projectsData, categories } from 'src/data/projects';
-import ProjectGrid from 'src/components/ProjectGrid/ProjectGrid';
+import { projectsData, categories } from '../data/projects';
+import ProjectGrid from '../components/ProjectGrid/ProjectGrid';
  
  
 function Projects() {
